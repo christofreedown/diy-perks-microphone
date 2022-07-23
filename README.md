@@ -8,3 +8,5 @@ The connection to the Volume control is a switch selecting one of 560 Ohm, 270 O
 The microphone connection is to a 2N4416 Fet soldered directly to the outputs of the microphone cell.
 The microphone capsule is a JLI2555.  I have included a .dxf file of the capsule case that has holes for the
 sound.  It can be used to have the case made at an online laser cutting service.
+
+Buy: https://www.jlielectronics.com/microphone-capsules/jli-2555bxz3-gp/
